@@ -51,6 +51,8 @@ text-align: center;
 margin-top: 40px;
 }
 
+
+
 #testimonial p{
 
   font-family: 'Josefin Sans';
@@ -59,15 +61,24 @@ margin-top: 40px;
 }
 
 #testimonial p.customer{
-
+width:50%;
 font-size: 20px;
 color: #666;
 
 }
 
+#info1 img{
+  width:90%;
+  margin-left:10px;
+}
+
+
 #info1 .info-right{
   margin-top: 90px;
+  padding-right: 30px;
 }
+
+
 
 #info2{
   margin: 20px 0 60px 0;
